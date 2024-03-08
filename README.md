@@ -1,3 +1,6 @@
+> [!WARNING]
+> Tener conexiona a internet, la base de datos esta en la nube
+
 
 > EduFly, una plataforma con el objetivo de consumir cursos digitales de acuerdo a los permisos de acceso que tenga, podría verse como la licencia que haya comprado.
 
